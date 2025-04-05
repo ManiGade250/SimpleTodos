@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1200px;
+  border-radius: 5px;
+  height: 1000px;
+}
+.heading {
+  color: #ff8542;
+  font-size: 25px;
+  font-weight: bold;
+}
